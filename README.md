@@ -171,7 +171,7 @@ Provides a high-level view of overall business performance, including sales, pro
 
 Analyzes sales performance across markets, regions and customer segments to identify major revenue contributors and regional opportunities.
 
-![Sales & Regional Analysis](Dashboard_Screenshots/04_Sales_Regional_Analysis)
+![Sales & Regional Analysis](Dashboard_Screenshots/04_Sales_Regional_Analysis.png)
 
 ---
 
@@ -179,7 +179,7 @@ Analyzes sales performance across markets, regions and customer segments to iden
 
 Evaluates profitability across categories, sub-categories and products, with specific focus on loss-making orders and products.
 
-![Profitability & Product Analysis](Dashboard_Screenshots/03_Profitability_Product_Analysis)
+![Profitability & Product Analysis](Dashboard_Screenshots/03_Profitability_Product_Analysis.png)
 
 ---
 
@@ -187,7 +187,7 @@ Evaluates profitability across categories, sub-categories and products, with spe
 
 The Power BI data model uses a fact-and-dimension structure to support interactive analysis and DAX calculations.
 
-![Global Superstore Data Model](Dashboard_Screenshots/02_Global_Superstore_Data_Model)
+![Global Superstore Data Model](Dashboard_Screenshots/02_Global_Superstore_Data_Model.png)
 
 ## 🔎 Key Business Insights
 
@@ -264,7 +264,7 @@ Use the observed Q4 sales peak and Q1 decline to improve seasonal planning by al
 
 | File / Folder | Description |
 |---|---|
-| `Global_Superstore_Final` | Final Power BI report |
+| `Global_Superstore_Final.pbix` | Final Power BI report |
 | `Global_Superstore_Project_Documentation.docx` | Detailed project documentation |
 | `Dashboard_Screenshots/` | Dashboard and data-model screenshots |
 | `README.md` | Project overview and analysis summary |
@@ -280,6 +280,21 @@ The analysis focuses not only on reporting what happened, but also on identifyin
 ## 📌 Conclusion
 
 The Global Superstore project demonstrates how transaction-level business data can be transformed into an interactive decision-support solution using Power BI.
+
+## 👤 Author
+
+**Mallikarjuna M.C**
+
+Aspiring Data Analyst focused on transforming business data into actionable insights using Excel, SQL and Power BI.
+
+### 🔗 Connect
+
+- **GitHub:** [mallikarjuna-mc](https://github.com/mallikarjuna-mc)
+- **LinkedIn:** [linkedin.com/in/mallikarjunamc](https://www.linkedin.com/in/mallikarjunamc/)
+
+### 📌 Project Repository
+
+[Global Superstore Sales & Profitability Analysis](https://github.com/mallikarjuna-mc/Global-Superstore-PowerBI)
 
 The combination of data preparation, dimensional modeling, DAX analysis, dashboard development and business interpretation provides a complete analytical workflow suitable for sales and profitability reporting.
 
